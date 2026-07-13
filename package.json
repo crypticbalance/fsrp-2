@@ -1,0 +1,31 @@
+{
+  "name": "fsrp-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypticbalance/fsrp-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "module",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/crypticbalance/fsrp-2/issues"
+  },
+  "homepage": "https://github.com/crypticbalance/fsrp-2#readme",
+  "dependencies": {
+    "acorn": "^8.17.0",
+    "axios": "^1.18.1",
+    "better-sqlite3": "^12.11.1",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14",
+    "sharp": "^0.35.3"
+  }
+}

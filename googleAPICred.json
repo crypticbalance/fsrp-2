@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "upheld-chalice-501703-j3",
+  "private_key_id": "143324fb8d1ba3e31797b76937910aa858ac72e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2SP8zd6bdCdMs\nJT926TJCcF0mfEpQyMUJyvGyi1TjtpcxldDFtrUEI+L3puTCLs/ixrncg1DIe4QS\nn4BYKPww5KZXCcKWFUzArHuCcV19WF/c43YfacmZvZ+RWrj6Si27Nx11S5iFnstI\nByGxSsOLFO2e7rYZQ9vIYjeCubjV1zU8wY0NkCw8ewDL+cbNlbldvgZcKLI/A+z/\n84856PSf72Ru+8i0CQJyrLK1fcPxrW40f+P5uYfuJzniMah9C8ClQZLC2Bkolz/u\ngm0RuhbmAlqQ4kqB5P6mM6OiGdXHBhgEwzHTQP4ZscDbKLnl546VPqUl3YCS59je\nvuCmSJU7AgMBAAECggEAGRLOvQ7xo5M9D47KvVneUUfmHZZtx9GV/imC4thKLk2+\nBlK2i5D83TuXy2Y9g9MEmAurIoCS6sDIA00ao7B04BTTfJgZwqMzZ4f82o3Vb5m/\nC0HjzEu021zl8gx/R+OkNA2kvlmjpTLugKiFIz9GySlxILIdLOR/UCo9EHzoxnZp\nockGZwE8TP997SPa87rNrp3K+cPwbN5CKlUPNClV6bN4io8nPivGQ6s1taZjyho0\nAJtKZ1Wxc304CLwg5kdYg+Hamp01R70MyBOMuFMBfYSYlfDfMvejla2ttAdJcSB3\n8HzVOMg9io3XD83BfGYhLpM1B3NCEb68KChqR//bIQKBgQDgjqa+qYEQu2TMEl3n\ne+UNf9onrCvQDwUd6qLiJCPeYkzK9y5E1UOd7RKqzUhGy4u6rm8dHMO9mLZqFynx\nh+hc32KsrSbCs2mxcA5CiVs1jiAa9FgSUxBWVQRJqnDlGXU4pdnE7gUg98zcvf/1\nBu23UGv+TZBE1bdQuPYWkvCRzwKBgQDPzxWwcH0faqOfGwVSUxRAhOySQIvfUyID\nITn9XEH62rt9Ax0rCn6JTckrqhIolYwdnXxW3KeKYqe6dTmmJznDjbBLBHhHgyjP\nDu8qFPfgOvjU4DzUmsbXHiVfcnadXW3Hra9xz06KZTv4g48KoaWWAj8bKgEoqjJe\n+5ZcVVF81QKBgGrfmb6Of83N0jhJ2YVtcuNM4TAWgjegnmfRnzoPxz50/GVw5QV/\nlpHYHhVKZEbFYzgzAtEROpvGzbKKWb0JWO6ypozWT+dEal43naHPK6i+fss1VaFL\nBTCBf+vrgZWX2zFdxdozCh/ZsBezGdmtNYAUd4Ftuub37CowDXdK8dIDAoGAY3+g\nv+ksT6WMkDqs0p0KvlWmu+QB1L0GNP9st527zbN7P8EE7z3IFk/TOX/lz97Cxs9H\n4IMoCP9xlbpZDvALHVGzDkgmmv72xCU/aCPAB3HVAIAZQCaXfBpoBIpWtsQsMwY7\nUb/TuDn+e9/p1kpNcUTEGGqFQYY0Nfw6Ix2Ktb0CgYEAjC1lnTo55atkvhxdJ30V\nx3q8Sc0zU0zl4Xlt4I3h3qjLdrUYNTJmaIa/Wo6asKD5xSSckfZLh296R91UBAGo\n0h8Z7MpZiWO7Q5HbKuOsdynKPuyYNmdM2IHcVuIyk/6vE0llZfI+nVqHUrq9jaJH\nEQxHX2oH3nbjIULya5BtH5s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "discord-bot@upheld-chalice-501703-j3.iam.gserviceaccount.com",
+  "client_id": "118133583677498264050",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-bot%40upheld-chalice-501703-j3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
